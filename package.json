@@ -1,0 +1,22 @@
+{
+  "name": "lab04-testing",
+  "version": "1.0.0",
+  "description": "Learning more about testing",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint",
+    "minify": "terser -compress -mangle"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gl-imi.f4.htw-berlin.de/info3-code-stubs-and-samples/lab04-testing.git"
+  },
+  "author": "Linda Fernsel",
+  "license": "MIT",
+  "dependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.7.0",
+    "jest": "^26.4.2",
+    "terser": "^5.3.0"
+  }
+}
