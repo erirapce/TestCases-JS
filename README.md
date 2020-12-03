@@ -1,2 +1,1 @@
-# JS-Testing
-# Homework from Univerity
+# Testing-JS
