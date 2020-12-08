@@ -11,7 +11,7 @@
     "type": "git",
     "url": "https://gl-imi.f4.htw-berlin.de/info3-code-stubs-and-samples/lab04-testing.git"
   },
-  "author": "Linda Fernsel",
+  "author": "Linda Fernsel, Hermes Rapce / Eri Rapce",
   "license": "MIT",
   "dependencies": {
     "babel-eslint": "^10.1.0",
